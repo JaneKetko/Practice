@@ -1,0 +1,12 @@
+$ git log
+commit b44763ae1857e881fe6bb827d75d852e7809ea07 (HEAD -> master)
+Author: Jane Ketko <janeketko@gmail.com>
+Date:   Tue Feb 6 16:29:19 2018 +0300
+
+    add status.txt
+
+commit 3801a170f6ffbbe0f2a0a4571b45b36260b70dc3
+Author: Jane Ketko <janeketko@gmail.com>
+Date:   Tue Feb 6 16:20:43 2018 +0300
+
+    add .gitignore
