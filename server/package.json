@@ -1,0 +1,22 @@
+{
+  "name": "fotoworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaneKetko/Practice.git"
+  },
+  "author": "jane ketko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaneKetko/Practice/issues"
+  },
+  "homepage": "https://github.com/JaneKetko/Practice#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
