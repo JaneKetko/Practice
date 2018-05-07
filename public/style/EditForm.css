@@ -1,0 +1,64 @@
+.addPhotoForm{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+}
+.addPhoto{
+    height: 35%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px 20px 20px;
+    border-radius: 5px;
+    background-color: #D8BFD8;
+    
+}
+textarea{
+    resize: none;
+    height: 60px;
+}
+.DragDropInput{
+    position: absolute;
+    padding: 0;
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+}
+.DragAndDrop{
+    height:250px;
+    border-radius: 5px;
+    background: white;
+    position: relative;
+}
+.DragDropText{
+    width: 100%;
+    text-align: center;
+    top:50%;
+    position: absolute;
+    color:#004e63;
+}
+.btn-add-photo{
+    margin-top:20px;
+    background-color:white;
+}
+
+.btn-add-photo:hover{
+    background: #D8BFD8;
+}
+
+.background{
+    max-width: 380px;
+    width:100%;
+    border: none;
+}
+
+.save-icon{
+    color:rgba(150, 3, 3, 0.733);
+    font-size: 30px;
+}
+.save-icon:hover{
+    color:rgb(150, 3, 3);
+}
+
+.edit-username{
+    width:45% ;
+}

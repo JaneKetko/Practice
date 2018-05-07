@@ -1,0 +1,39 @@
+.logIN{
+    width:80%;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.username, .password{
+    width:250px;
+    padding-top: 3px;
+    padding-left: 5px;
+    margin: 10px 0px 10px 0px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+}
+.username{
+    margin: 5px;
+}
+.password{
+    margin: 5px;
+}
+.welcomeText{
+    font-size:70px;
+    color: darkviolet;
+}
+.btn-log-in{
+    margin-top:5px;
+    background: white;
+}
+
+.btn-log-in:hover{
+        background: #D8BFD8;
+    }
+
+form[name="logInForm"]{
+    display: flex;
+    flex-direction: column;
+}
